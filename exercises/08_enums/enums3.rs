@@ -1,5 +1,3 @@
-use crate::Message::{ChangeColor, Echo, Move, Resize};
-
 struct Point {
     x: u64,
     y: u64,
